@@ -1,0 +1,33 @@
+{
+  "id": "com.garredow.wordly",
+  "name": "Wordly",
+  "description": "A clone of a popular word game",
+  "version": "1.3.1",
+  "launch_path": "/index.html",
+  "icons": {
+    "256": "/assets/images/icon_256.png",
+    "128": "/assets/images/icon_128.png",
+    "112": "/assets/images/icon_112.png",
+    "56": "/assets/images/icon_56.png"
+  },
+  "theme_color": "#7aa86c",
+  "developer": {
+    "name": "Garrett Downs",
+    "url": "https://garrettdowns.com"
+  },
+  "type": "web",
+  "permissions": {},
+  "fullscreen": true,
+  "locales": {
+    "en-US": {
+      "name": "Wordly",
+      "subtitle": "A clone of a popular word game",
+      "description": "A clone of a popular word game"
+    }
+  },
+  "default_locale": "en-US",
+  "cursor": false,
+  "dependencies": {
+    "ads-sdk": "1.5.5"
+  }
+}
