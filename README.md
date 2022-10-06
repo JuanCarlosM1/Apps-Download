@@ -12,3 +12,5 @@ Mica v0.3.0 - https://github.com/garredow/mica
 Wordly Kaios2 v1.3.1 - https://github.com/garredow/wordly
 
 Pock v1.4.1 - https://github.com/garredow/pock
+
+Kairoot 0.0.6 - https://github.com/Delta-Applications/KaiRoot
